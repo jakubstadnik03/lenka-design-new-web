@@ -1,7 +1,9 @@
 {
   "pages": {
-    "/webove-stranky": [],
-    "/nase-sluzby": []
+    "/realizace": [],
+    "/nase-sluzby": [],
+    "/vizualizace": [],
+    "/webove-stranky": []
   },
   "app": {},
   "appUsingSizeAdjust": false,
